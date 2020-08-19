@@ -1,0 +1,25 @@
+h2{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -44px;
+}
+h3{
+    display: flex;
+    margin-left: 1166px;
+    margin-top: -44px;   
+}
+body{
+    background-color: cyan;
+}
+img{
+    width: 300px;
+
+}
+h5{
+    margin-left: 370px;
+    margin-top: -34px;
+}
+h6{
+    margin-left: 711px;
+    margin-top: -34px;
+}
